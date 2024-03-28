@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import praktikum.pages.*;
 
 import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
 public class OrderStatusTest {
